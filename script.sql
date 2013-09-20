@@ -1,3 +1,1 @@
- select * from dual;
-g
-g
+ select * from dual; g g gggre
